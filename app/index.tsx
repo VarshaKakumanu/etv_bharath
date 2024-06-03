@@ -80,7 +80,7 @@ export default function Home() {
             </Heading>
             <VStack space="xs">
               <Text color="$primary.500" lineHeight="$xs">
-                Email
+                Email (email)
               </Text>
               <Input>
                 <InputField
